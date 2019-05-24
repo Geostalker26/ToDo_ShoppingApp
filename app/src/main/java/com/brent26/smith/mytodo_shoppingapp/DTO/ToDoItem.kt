@@ -1,0 +1,8 @@
+package com.brent26.smith.mytodo_shoppingapp.DTO
+
+class ToDoItem{
+    var id : Long = -1
+    var toDoId : Long = -1
+    var itemName = ""
+    var isCompleted = false
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyToDo_ShoppingApp</string>
+
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="Mark_as_completed">Mark as completed</string>
+    <string name="Reset">Reset</string>
+</resources>
